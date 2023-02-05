@@ -1,0 +1,51 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+    background-color: #F3EFEF;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+  }
+  
+  header {
+    margin: 50px 0;
+  }
+  
+  h1 {
+    font-family: 'Russo One', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    color: #7B4F4F;
+  }
+  
+  h2 {
+    font-size: 40px;
+    font-weight: 400;
+    color: #7B4F4F;
+    margin-top: 20px;
+  }
+  
+  main {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  section {
+    margin: 50px 0;
+  }
+  
+  p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #7B4F4F;
+    line-height: 1.5;
+  }
+  
+  footer {
+    margin-top: 50px;
+  }
+  
+  footer p {
+    font-size: 14px;
+  }
